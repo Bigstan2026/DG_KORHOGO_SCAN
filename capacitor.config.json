@@ -1,0 +1,9 @@
+{
+  "appId": "com.standistribution.scancodes",
+  "appName": "Scan Codes",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
